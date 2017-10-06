@@ -744,6 +744,11 @@
 "decimal":8,
 "type":"default"
 },{
+"address":"0x9b6443b0fB9C241A7fdAC375595cEa13e6B7807A",
+"symbol":"RCC",
+"decimal":18,
+"type":"default"
+},{
 "address":"0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
 "symbol":"REP",
 "decimal":18,
